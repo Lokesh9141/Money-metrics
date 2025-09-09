@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Money-metrics/static/css/main.d037f63c.css",
+    "main.js": "/Money-metrics/static/js/main.0b54566b.js",
+    "static/media/money-finance-business-financial.jpg": "/Money-metrics/static/media/money-finance-business-financial.0ba8c675777bd07ac676.jpg",
+    "index.html": "/Money-metrics/index.html",
+    "main.d037f63c.css.map": "/Money-metrics/static/css/main.d037f63c.css.map",
+    "main.0b54566b.js.map": "/Money-metrics/static/js/main.0b54566b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d037f63c.css",
+    "static/js/main.0b54566b.js"
+  ]
+}
