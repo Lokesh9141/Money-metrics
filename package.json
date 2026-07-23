@@ -1,7 +1,6 @@
 {
   "name": "expense",
   "version": "0.1.0",
-  "homepage": "https://lokesh9141.github.io/Money-metrics",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.4",
